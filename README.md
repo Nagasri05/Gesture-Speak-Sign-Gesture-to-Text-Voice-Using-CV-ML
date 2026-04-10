@@ -41,7 +41,7 @@ This project provides a real-time solution to bridge this communication gap.
 ---
 
 ## 📄 Project Report
-📎 Project documentation will be available in the `docs/` folder
+📎 Project documentation will be available in the `docs/` folder will be uploaded soon..
 
 ---
 
