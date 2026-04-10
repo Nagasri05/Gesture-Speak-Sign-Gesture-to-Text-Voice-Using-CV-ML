@@ -46,7 +46,7 @@ This project provides a real-time solution to bridge this communication gap.
 ---
 
 ## 💻 Code
-🚧 Code will be uploaded soon
+🚧 Code is Uploaded
 
 ---
 
